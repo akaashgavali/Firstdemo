@@ -15,6 +15,7 @@ namespace Firstdemo
             string month = "sept";
             float percentage = 89.56f;
             double a = 78.67;
+            int day = 29;
             //using + sign
             Console.WriteLine("current yeat is " + year + "current month is " + month);
             //using placeholder
