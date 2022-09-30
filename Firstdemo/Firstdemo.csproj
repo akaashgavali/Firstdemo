@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arrithmatic.cs" />
+    <Compile Include="Leapyear.cs" />
+    <Compile Include="Oddevwn1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Relationalop1.cs" />
