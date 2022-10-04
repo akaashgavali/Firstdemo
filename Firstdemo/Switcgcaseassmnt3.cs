@@ -20,9 +20,9 @@
 //            Console.WriteLine("4. division");
 //            Console.WriteLine("5. mod");
 
-            
+
 //            int choice = Convert.ToInt32(Console.ReadLine());
-            
+
 
 //            switch (choice)
 //            {
@@ -36,7 +36,7 @@
 //                    Console.WriteLine(n1 * n2);
 //                    break;
 //                case 4:
-//                    Console.WriteLine(n1 / n2); 
+//                    Console.WriteLine(n1 / n2);
 //                    break;
 //                case 5:
 //                    Console.WriteLine(n1 % n2);

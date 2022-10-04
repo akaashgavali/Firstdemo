@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Arrithmatic.cs" />
     <Compile Include="Assignment1.cs" />
+    <Compile Include="Forloopassmnt.cs" />
+    <Compile Include="Forloopcs.cs" />
     <Compile Include="Gradeassignment2.cs" />
     <Compile Include="Leapyear.cs" />
     <Compile Include="Nestedifelse1.cs" />
@@ -56,6 +58,7 @@
     <Compile Include="Switcgcaseassmnt3.cs" />
     <Compile Include="Unaryop1.cs" />
     <Compile Include="Vowelconsanant.cs" />
+    <Compile Include="Whileassmnt.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
