@@ -55,6 +55,10 @@
     <Compile Include="Leapyear.cs" />
     <Compile Include="Nestedifelse1.cs" />
     <Compile Include="Nestedifusinglogicalop1.cs" />
+    <Compile Include="Nestedllop.cs" />
+    <Compile Include="Nestedloop2.cs" />
+    <Compile Include="Nestedloop3.cs" />
+    <Compile Include="Nestedloop4.cs" />
     <Compile Include="Oddevwn1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
