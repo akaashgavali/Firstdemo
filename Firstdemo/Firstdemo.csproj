@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aasmnforloop2.cs" />
+    <Compile Include="Armstronghw3.cs" />
     <Compile Include="Arrithmatic.cs" />
     <Compile Include="Assignment1.cs" />
+    <Compile Include="Dowhilehw1.cs" />
+    <Compile Include="Dowhilehw2.cs" />
     <Compile Include="Forloopassmnt.cs" />
     <Compile Include="Forloopcs.cs" />
     <Compile Include="Gradeassignment2.cs" />
@@ -59,6 +63,8 @@
     <Compile Include="Unaryop1.cs" />
     <Compile Include="Vowelconsanant.cs" />
     <Compile Include="Whileassmnt.cs" />
+    <Compile Include="whilehw1.cs" />
+    <Compile Include="Whilehw2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
