@@ -52,6 +52,13 @@
     <Compile Include="Forloopassmnt.cs" />
     <Compile Include="Forloopcs.cs" />
     <Compile Include="Gradeassignment2.cs" />
+    <Compile Include="homework1.cs" />
+    <Compile Include="homework2.cs" />
+    <Compile Include="homework3.cs" />
+    <Compile Include="homework4.cs" />
+    <Compile Include="homework5.cs" />
+    <Compile Include="Homework6.cs" />
+    <Compile Include="Homework7.cs" />
     <Compile Include="Leapyear.cs" />
     <Compile Include="Nestedifelse1.cs" />
     <Compile Include="Nestedifusinglogicalop1.cs" />
@@ -63,6 +70,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Relationalop1.cs" />
+    <Compile Include="Starpyramid.cs" />
     <Compile Include="Switcgcaseassmnt3.cs" />
     <Compile Include="Unaryop1.cs" />
     <Compile Include="Vowelconsanant.cs" />

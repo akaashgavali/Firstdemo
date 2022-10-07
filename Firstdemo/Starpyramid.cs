@@ -6,20 +6,25 @@
 
 //namespace Firstdemo
 //{
-//    internal class Nestedloop4
+//    internal class Starpyramid
 //    {
 //        static void Main(string[] args)
 //        {
-//            for (int i = 1; i <= 5; i++)
+//            int n, x, y, z;
+//            n = 5;
+//            for (x = 1; x <= n; x++)
 //            {
-//                for (int j = 1; j <= i; j++)
+//                for (y = 1; y <= n - x; y++)
 //                {
-//                    Console.Write("*");
+//                    Console.Write(" ");
+//                }
+//                for (z = 1; z <= x; z++)
+//                {
+//                    Console.Write("* ");
 //                }
 //                Console.WriteLine();
-
 //            }
 //        }
 //    }
 //}
-    
+
